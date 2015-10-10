@@ -7,6 +7,6 @@ Un README.txt,
 2 autres fichiers de mon choix,
 4 commits distincts.
 
-J'espère réussir ce projet!
+J'espère réussir cette activité!
 
 Merci de votre attention!
